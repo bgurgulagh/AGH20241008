@@ -6,4 +6,4 @@
 
 ## dodaje kolejną wersję 
 ## kolejny dopis
-### test test
+### cos nie wyszło
